@@ -91,7 +91,6 @@ All colors MUST be HSL for proper theming.
     --sidebar-ring: 200 100% 60%;
   }
 }
-}
 
 @layer base {
   * {
